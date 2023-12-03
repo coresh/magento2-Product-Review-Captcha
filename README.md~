@@ -11,7 +11,7 @@ composer config repositories.emizentech-captcha vcs https://github.com/coresh/ma
 composer require emizentech/captcha
 ```
 
-### 2. Configuration:
+### 2.Configuration:
 ```
 Admin > Store > Configuration > Customer > Customer Configuration > Captcha tab.
 Select review to show captcha in review form and Save config.
